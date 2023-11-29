@@ -1,6 +1,6 @@
-package com.fastcampus.kotlinspring.todo.api.service
+package com.fastcampus.kotlinspring.todo.service
 
-import com.fastcampus.kotlinspring.todo.api.domain.Todo
+import com.fastcampus.kotlinspring.todo.domain.Todo
 import com.fastcampus.kotlinspring.todo.api.model.TodoRequest
 import com.fastcampus.kotlinspring.todo.domain.TodoRepository
 import org.springframework.data.domain.Sort.Direction
